@@ -2,52 +2,28 @@
 # Banner
 banner:
   title: "UDSC <br>l’Union pour le Dynamisme de la Station de Crévoux"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  content: "L'association UDSC est lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi consequat, orci a lacinia euismod, turpis risus blandit massa, in maximus metus neque in metus."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Rejoindre l'association"
+    link: "nous-soutenir/"    
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-    bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+  - title: "L’association"
+    image: "/images/photoHP2.png"
+    content: "L’UDSC : l’Union pour le Dynamisme de la Station de Crévoux est née le 20 janvier 2024 suite au lancement de la <u>[pétition « Inquiets pour la station de ski de Crévoux » publiée le 16 janvier 2024](/actualites)</u> et plébiscitée par près de <b>6 000 personnes</b>.<br> Forts de cette inquiétude partagée concernant l’avenir de la station, Bruno, Eve et Gilles, Crévolins d’adoption et de cœur, ont souhaité aller plus loin en créant l’UDSC. L’objectif de l’UDSC est d’informer et de réfléchir avec les usagers de la station de ski sur la situation et l’avenir de cette dernière en liaison étroite avec les autorités concernées. Sa mission: œuvrer pour la transparence sur la situation administrative, juridique et financière de la station"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Vous souhaitez soutenir notre action "
+      link: "#"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
+
+title: "Les membres de ce collectif"
 ---
+
+
+
+
+
