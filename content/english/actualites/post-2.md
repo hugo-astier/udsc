@@ -1,12 +1,11 @@
 ---
-title: "Rencontre avec le maire de Crevoux le   12 janvier 2024 "
+title: "Rencontre avec le maire de Crevoux le 12 janvier 2024 "
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2024-01-01T12:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Technology", "Data"]
-author: "Sam Wilson"
-tags: ["technology", "tailwind"]
+categories: ["Rencontre"]
+author: "Bruno Sturlese"
 draft: false
 ---
 
