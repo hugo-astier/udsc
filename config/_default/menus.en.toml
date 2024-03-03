@@ -12,8 +12,8 @@ url = "commune-crevoux/"
 weight = 2
 
 [[main]]
-name = "Les actions menées"
-url = "les-actions-menees/"
+name = "La pétition"
+url = "la-petition/"
 weight = 3
 
 [[main]]

@@ -2,8 +2,13 @@
 title: "Nous soutenir"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/soutenir.jpg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Pour soutenir notre action afin de dynamiser Crévoux quelle que soit la saison, devenez membre de notre association. Il vous suffit pour cela de nous retourner le bulletin d’adhésion complété ainsi que votre cotisation de 15€.
+
+En devenant adhérent vous nous aiderez à financer nos démarches, être plus visible et vous accéderez à l’espace adhérent.
+Espace dans lequel vous aurez notamment la possibilité de partager vos idées.
+
+{{< button label="Télécharger votre bulletin d’adhésion" link="/" style="solid" >}}
