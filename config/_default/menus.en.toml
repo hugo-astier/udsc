@@ -21,6 +21,11 @@ name = "Actualités"
 url = "actualites/"
 weight = 4
 
+#[[main]]
+#name = "Blog"
+#url = "actualites/"
+#weight = 4
+
 [[main]]
 name = "Nous soutenir"
 url = "nous-soutenir/"

@@ -1,20 +1,19 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Réunion le jeudi 8 février à 17h30"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2024-01-25T12:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
+categories: ["Réunion"]
+author: "Eve Le Berre"
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Le Conseil d’Administration de l’UDSC invite à sa première réunion d’échanges les acteurs socio-professionnels du domaine skiable de Crévoux.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+L’ occasion de leur présenter la démarche et les objectifs de notre association et recueillir leurs avis et attentes afin d’agir collectivement pour le bien de notre station.
 
-## Creative Design
+## Lorem ipsum
 
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
