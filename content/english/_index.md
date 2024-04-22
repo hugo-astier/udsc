@@ -2,12 +2,12 @@
 # Banner
 banner:
   title: "UDSC <br>l’Union pour le Dynamisme de la Station de Crévoux"
-  content: "L'association UDSC est lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi consequat, orci a lacinia euismod, turpis risus blandit massa, in maximus metus neque in metus."
+  content: "Une mobilisation citoyenne pour contribuer à la sauvegarde et au renouveau du dynamisme de la station, dans le respect de son environnement naturel actuel qui fait sa spécificité."
   image: "/images/banner.png"
   button:
     enable: true
     label: "Rejoindre l'association"
-    link: "nous-soutenir/"    
+    link: "nous-soutenir/"
 
 # Features
 features:
