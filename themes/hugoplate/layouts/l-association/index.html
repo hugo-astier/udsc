@@ -8,9 +8,9 @@
     <div class="container">
       <div class="row justify-center">
         <div class="lg:col-10">
-          {{ $sonobjet := .Site.GetPage "sonobjet.md" }}
-          {{ $membres := .Site.GetPage "membres.md" }}
-          {{ $mot := .Site.GetPage "mot.md" }}
+          {{ $sonobjet := .Site.GetPage "l-association/sonobjet.md" }}
+          {{ $membres := .Site.GetPage "l-association/membres.md" }}
+          {{ $mot := .Site.GetPage "l-association/mot.md" }}
           <div class="content">{{ .Content }}</div>
           <div class="text-center"><h2>{{ $sonobjet.Title }}</h2></div>
           <div class="content">{{ $sonobjet.Content }}</div>

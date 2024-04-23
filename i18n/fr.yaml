@@ -5,28 +5,28 @@
   translation: Voir plus
 
 - id: send
-  translation: Send
+  translation: Envoyer
 
 - id: related_posts
-  translation: Related Posts
+  translation: Articles similaires
 
 - id: categories
-  translation: Categories
+  translation: Catégories
 
 - id: tags
-  translation: Tags
+  translation: Étiquettes
 
 - id: toc
-  translation: Table of Contents
+  translation: Table des matières
 
 - id: share
   translation: Partager
 
 - id: search_input_placeholder
-  translation: Search Post ...
+  translation: Rechercher un article ...
 
 - id: no_results_for
-  translation: No results for
+  translation: Aucun résultat pour
 
 - id: empty_search_results_placeholder
-  translation: Type something to search..
+  translation: Tapez quelque chose pour rechercher..
