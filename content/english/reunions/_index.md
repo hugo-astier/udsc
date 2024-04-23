@@ -1,5 +1,5 @@
 ---
 title: "Réunions"
-meta_title: "Réunions"
-description: "this is meta description"
+meta_title: "Réunions - UDSC"
+description: "Réunions - UDSC"
 ---

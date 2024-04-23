@@ -1,7 +1,7 @@
 ---
 title: "La pétition"
-meta_title: "About"
-description: "this is meta description"
+meta_title: "La pétition - UDSC"
+description: "La pétition - UDSC"
 image: "/images/avatar.png"
 draft: false
 ---

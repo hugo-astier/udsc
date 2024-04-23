@@ -1,5 +1,5 @@
 ---
 title: "Agenda"
-meta_title: "Agenda"
-description: "this is meta description"
+meta_title: "Agenda UDSC"
+description: "Agenda UDSC"
 ---

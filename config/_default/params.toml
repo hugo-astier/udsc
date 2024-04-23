@@ -56,10 +56,10 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-image = "images/og-image.png"
+keywords = ["UDSC", "Association", "Crevoux", "Union", "Pétition"]
+description = "UDSC: l’Union pour le Dynamisme de la Station de Crévoux"
+author = "UDSC"
+image = "images/logo.jpg"
 
 
 # site verifications

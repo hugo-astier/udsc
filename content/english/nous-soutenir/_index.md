@@ -1,7 +1,7 @@
 ---
 title: "Nous soutenir"
-meta_title: "About"
-description: "this is meta description"
+meta_title: "Nous soutenir - UDSC"
+description: "Nous soutenir - UDSC"
 image: "/images/soutenir.jpg"
 draft: false
 ---
