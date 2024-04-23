@@ -2,7 +2,7 @@
 weight: 6
 title: Laure Signouret Virzi
 email: johndoe@email.com
-image: "/images/profile-john-doe.jpg"
+image: "/images/laure.png"
 description: this is meta description
 # social:
 #   - name: github

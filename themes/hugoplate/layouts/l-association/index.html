@@ -1,9 +1,7 @@
 {{ define "main" }}
   {{ partial "page-header" . }}
 
-
-  <div id="son-objet"></div>
-  <br /><br /><br /><br />
+  <div id="son-objet"></div><br><br><br><br>
   <section class="section-sm">
     <div class="container">
       <div class="row justify-center">
@@ -12,29 +10,14 @@
           {{ $membres := .Site.GetPage "membres.md" }}
           {{ $mot := .Site.GetPage "mot.md" }}
           <div class="content">{{ .Content }}</div>
-          <div class="text-center"><h2>{{ $sonobjet.Title }}</h2></div>
+          <div class="text-center"><H2>{{ $sonobjet.Title }}</H2></div>
           <div class="content">{{ $sonobjet.Content }}</div>
-          {{ with .Params.button }}
-            <a
-              class="btn btn-primary"
-              href="{{ .link | absURL }}"
-              {{ if strings.HasPrefix .link `http` }}
-                target="_blank" rel="noopener"
-              {{ end }}>
-              {{ .label }}
-              <i class="fa fa-arrow-right pl-2"></i>
-            </a>
-          {{ end }}
-          <div id="le-mot-du-president"></div>
-          <br /><br /><br /><br />
-          <div class="text-center"><h2>{{ $mot.Title }}</h2></div>
+          <div id="le-mot-du-president"></div><br><br><br><br>
+          <div class="text-center"><H2>{{ $mot.Title }}</H2></div>
           <div class="content">{{ $mot.Content }}</div>
-          <div id="lequipe-danimation-de-ludsc"></div>
-          <br /><br /><br /><br />
-          <div class="text-center"><h2>{{ $membres.Title }}</h2></div>
-          <br />
-          <h3 class="text-center">{{ $membres.Params.subtitle }}</h3>
-          <br /><br />
+          <div id="lequipe-danimation-de-ludsc"></div><br><br><br><br>
+          <div class="text-center"><H2>{{ $membres.Title }}</H2></div><br>
+          <h3 class="text-center">{{ $membres.Params.subtitle }}</h3><br><br>
           <div class="content">{{ $membres.Content }}</div>
           <div class="container">
             <div class="row">
@@ -50,4 +33,7 @@
       </div>
     </div>
   </section>
+
+
+
 {{ end }}
