@@ -4,7 +4,7 @@
 # main menu
 [[main]]
 name = "L'association"
-url = "l-association/"
+url = ""
 weight = 1
 # Submenu for L'association
 [[main]]
@@ -12,13 +12,11 @@ parent = "L'association"
 name = "Son Objet"
 url = "l-association/#son-objet"
 weight = 1
-
 [[main]]
 parent = "L'association"
 name = "Le mot du Président"
 url = "l-association/#le-mot-du-president"
 weight = 2
-
 [[main]]
 parent = "L'association"
 name = "L’équipe d’animation de l’UDSC"
@@ -32,36 +30,34 @@ weight = 2
 
 [[main]]
 name = "Nos actions"
-url = "nos-actions/"
+url = ""
 weight = 3
 # Submenu for Nos actions
 [[main]]
 parent = "Nos actions"
 name = "La pétition"
-url = "nos-actions/#la-petition"
+url = "la-petition"
 weight = 1
-
 [[main]]
 parent = "Nos actions"
 name = "Réunions"
-url = "nos-actions/#reunions"
+url = "reunions"
 weight = 2
 
 [[main]]
 name = "Actualités"
-url = "actualites/"
+url = ""
+# Submenu for Actualités
 weight = 4
-
 [[main]]
 parent = "Actualités"
 name = "Agenda"
-url = "actualites/agenda"
+url = "agenda/"
 weight = 1
-
 [[main]]
 parent = "Actualités"
 name = "La presse parle de nous"
-url = "actualites/la-presse-parle-de-nous"
+url = "presse/"
 weight = 2
 
 #[[main]]
