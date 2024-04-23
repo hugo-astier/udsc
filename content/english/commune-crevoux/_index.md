@@ -2,7 +2,10 @@
 title: "La commune de Crevoux"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/crevoux-neige.png"
+button:
+  label: "Vous souhaitez nous soutenir"
+  link: "nous-soutenir/"
 draft: false
 ---
 
