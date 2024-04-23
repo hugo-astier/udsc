@@ -29,7 +29,7 @@ La tâche est immense, les défis nombreux, les obstacles mis en travers de notr
 
 **Mais nous avons plus que jamais besoin également de vos idées, de vos suggestions, de votre énergie...**
 
-**Suivez-nous sur ce Facebook de l’UDSC et n’hésitez pas à nous soutenir en partageant nos publications. A très bientôt !**
+**Suivez-nous sur le Facebook de l’UDSC et n’hésitez pas à nous soutenir en partageant nos publications. A très bientôt !**
 
 Crévoux, le 25 février 2024,
 

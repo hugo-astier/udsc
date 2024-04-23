@@ -2,7 +2,7 @@
   translation: Home
 
 - id: read_more
-  translation: Read More
+  translation: Voir plus
 
 - id: send
   translation: Send
@@ -20,7 +20,7 @@
   translation: Table of Contents
 
 - id: share
-  translation: Share
+  translation: Partager
 
 - id: search_input_placeholder
   translation: Search Post ...

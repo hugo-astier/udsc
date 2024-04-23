@@ -60,64 +60,19 @@ name = "La presse parle de nous"
 url = "presse/"
 weight = 2
 
-#[[main]]
-#name = "Blog"
-#url = "actualites/"
-#weight = 4
-
 [[main]]
 name = "Nous soutenir"
 url = "nous-soutenir/"
 weight = 5
 
-#[[main]]
-#name = "Elements"
-#url = "elements/"
-#weight = 5
-
-#[[main]]
-#name = "Pages"
-#hasChildren = true
-#weight = 6
-
-#[[main]]
-#parent = "Pages"
-#name = "Blog"
-#url = "blog/"
-
-#[[main]]
-#parent = "Pages"
-#name = "Contact"
-#url = "contact/"
-
-#[[main]]
-#parent = "Pages"
-#name = "Authors"
-#url = "authors/"
-
-#[[main]]
-#parent = "Pages"
-#name = "Categories"
-#url = "categories/"
-
-#[[main]]
-#parent = "Pages"
-#name = "404 Page"
-#url = "404/"
-
 
 # footer menu
 [[footer]]
-name = "About"
-url = "about/"
+name = "A propos"
+url = "l-association/#son-objet"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "elements/"
+name = "Contact"
+url = "contact/"
 weight = 2
-
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 3
